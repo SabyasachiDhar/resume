@@ -7,7 +7,7 @@ theme = "hugo-vitae"
 
 [params]
   author = "Sabyasachi Dhar"
-  title = "Dwai Banerjee's Resume"
+  title = "Sabyasachi Dhar's Resume"
   description = "Dwai Banerjee's Resume"
   avatar = "3b27979.jpg"
   #email = "mail Dwai / "
